@@ -1,9 +1,9 @@
 import time
 pocetna_pozicija = 0
-cilj = 50
+cilj = 100
 # .               .
 trenutna_pozicija = 0
-brzina = 10
+brzina = 20
 
 for x in range(10):
     print(trenutna_pozicija)
